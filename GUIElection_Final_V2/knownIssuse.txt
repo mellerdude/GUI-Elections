@@ -1,0 +1,3 @@
+Known Issues
+	- Construcor of election round is defaulted and Month,Year are predetermined
+	- If not chosen from an option, default options are selected.
